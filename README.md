@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on an automated testing tool for IBM GDPS 
+    *I am an apprentice for IBM since november 2021
+    *I am in my last year of school and curently preparing my second diploma (MBDS)
+
+
+
 <!--
 **LeoRnd/LeoRnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
